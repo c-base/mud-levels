@@ -1,0 +1,7 @@
+<station key="spreejwb">
+    <name>Spree an der Jannowitzbrücke</name>
+    <directions>
+        <direction station="cbtrees">East</direction>
+        <direction station="cnrestaurant">South</direction>
+    </directions>
+</station>

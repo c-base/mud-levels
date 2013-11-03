@@ -1,0 +1,7 @@
+<station key="cbasecleuse">
+    <name>c-base c_leuse</name>
+    <directions>
+        <direction station="cbasecleuse">Door</direction>
+        <direction station="spreejwb">West</direction>
+    </directions>
+</station>

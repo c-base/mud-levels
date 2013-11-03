@@ -1,0 +1,8 @@
+<station key="cbtrees">
+    <name>Baumgruppe</name>
+    <directions>
+        <direction hidden="true" station="cbasedoor">East</direction>
+        <direction station="spreejwb">West</direction>
+    </directions>
+
+</station>

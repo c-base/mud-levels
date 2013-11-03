@@ -1,0 +1,7 @@
+<station key="cnamb">
+    <name>Chinesische Botschaft</name>
+    <directions>
+        <direction station="jannowitzbruecke">North</direction>
+        <direction station="cnrestaurant">East</direction>
+    </directions>
+</station>

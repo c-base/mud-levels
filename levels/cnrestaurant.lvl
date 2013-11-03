@@ -1,0 +1,7 @@
+<station key="cnrestaurant">
+    <name>Chinesisches Restaurant</name>
+    <directions>
+        <direction station="cnamb">West</direction>
+        <direction station="spreejwb">North</direction>
+    </directions>
+</station>

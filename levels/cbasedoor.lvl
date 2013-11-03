@@ -1,0 +1,8 @@
+<station key="cbasedoor">
+    <name>c-base</name>
+    <intro>You see a house but you feel there is more</intro>
+    <directions>
+        <direction station="cbtrees">West</direction>
+        <direction station="cbasecleuse">East</direction>
+    </directions>
+</station>
