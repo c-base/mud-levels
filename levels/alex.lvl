@@ -1,5 +1,6 @@
 <station key="alex">
-    <name>Alexanderplatz</name>
+    <name>S Alexanderplatz</name>
+    <intro>The S-Bahn stops at Alexanderplatz and the doors open. You can see the Fernsehturm through the windows of the station.</intro>
     <directions>
         <direction station="jannowitzbruecke">East</direction>
     </directions>
